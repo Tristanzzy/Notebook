@@ -1,2 +1,2 @@
 # Notebook
-Just learing note
+Learning note
